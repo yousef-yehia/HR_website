@@ -1,0 +1,19 @@
+.form-control {
+  max-width: 250px;
+}
+.form-select {
+  max-width: 250px;
+}
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+  height: 35px;
+}
+
+.toolbar .input-group {
+  width: fit-content;
+}
+
+.toolbar > * {
+  flex-shrink: 0;
+}

@@ -1,0 +1,24 @@
+body{
+    background-color: #f7f7f7;
+}
+.choices{
+    width: 40%;
+    margin: auto;
+}
+.choices .choice-list{
+    text-align: center;
+    margin-top: 24%;
+}
+.choices .choice-list .choice-item{
+    list-style: none;
+    margin-bottom: 32px;
+    font-size: 25px;
+    border: 2px solid;
+    border-radius: 41px;
+    background-color: #6d6acf;
+    box-shadow: 0 0 20px -10px rgb(0 0 0 / 80%);
+}
+.choices .choice-list .choice-item a{
+    text-decoration: none;
+    color: #fff;
+}

@@ -1,0 +1,38 @@
+html {
+  height: 100%;
+  scroll-behavior: smooth;
+}
+body {
+  height: 100%;
+}
+
+.iframeContainer {
+  height: 100%;
+  width: 100%;
+  border: 0px;
+}
+
+.container-fluid {
+  height: 100%;
+}
+
+.router-container {
+  margin: 5em 1em;
+}
+
+.loader {
+  background-size: contain;
+  background-position: center;
+  width: 100%;
+  padding: 3em;
+  background-repeat: no-repeat;
+  margin: 10em 0px;
+}
+
+.bread-crumbs {
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 600;
+  background-color: #f8f9fa80;
+  color: #8f8f8f;
+}
